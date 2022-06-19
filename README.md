@@ -1,10 +1,14 @@
 # geopython-codecarbon: Track and Curtail Carbon Footprint of your Python Code with CodeCarbon
+
 Repository containing the slides and resources used for delivering talk titled **"Track and Curtail Carbon Footprint of your Python Code with CodeCarbon"** at **GeoPython 2022 Conference**.
 
 **Author:**</br>
 Anmol Krishan Sachdeva</br>
 Hybrid Cloud Architect, Google</br>
 [LinkedIn@greatdevaks](https://www.linkedin.com/in/greatdevaks) | [Twitter@greatdevaks](https://www.twitter.com/greatdevaks)
+
+**Deck:**</br>
+[Track and Curtail Carbon Footprint of your Python Code with CodeCarbon](./TrackAndCurtailCarbonFootprintOfYourPythonCodeWithCodeCarbon_AnmolKrishanSachdeva_GeoPython2022.pdf)
 
 
 **References:**
@@ -20,3 +24,6 @@ Hybrid Cloud Architect, Google</br>
 - [CodeCarbon Official Website](https://codecarbon.io)
 - [CodeCarbon Offline Mode Country Codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
 - [CodeCarbon Example - MNIST with flush()](https://github.com/mlco2/codecarbon/blob/master/examples/mnist_callback.py)
+
+**Disclaimer:**</br>
+The content and the views presented during the talk/session are the author’s own and not of the organizations/companies they are associated with.
